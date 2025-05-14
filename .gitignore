@@ -1,0 +1,5 @@
+build
+debian
+.obj-x86_64-linux-gnu
+install
+doc
